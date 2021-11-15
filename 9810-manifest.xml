@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8">
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<project name="AverageDood/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" revision="arrow-11.0" />
 	<project name="AverageDood/android_device_samsung_starlte" path="device/samsung/starlte" remote="github" revision="arrow-11.0" />
